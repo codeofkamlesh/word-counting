@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "name": "@kamleshkumar/word-counting-project",
+  "version": "1.0.0",
+  "description": "this is project of word counting game.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kamlesh kumar",
+  "license": "ISC"
+}
